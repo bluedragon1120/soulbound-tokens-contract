@@ -1,6 +1,12 @@
 # UniversityDegree Project
 Non transferable Soul bound token NFT
 
+### Commands
+```shell
+npm run compile
+npm run rinkeby
+```
+
 ### Ref URL
 ```shell
 https://www.youtube.com/watch?v=Am5TNChbS34
